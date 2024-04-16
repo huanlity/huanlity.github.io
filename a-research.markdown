@@ -10,6 +10,10 @@ permalink: /research/
 [[arXiv](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v2)]
 [[code (coming soon)]()]
 
+**Ecogeographic signals of local adaptation in a wild relative help to identify variants associated with improved wheat performance under drought stress**\\
+Nyine, M., Davidson, D., Adhikari, E., Clinesmith, M., **Wang, H.**, Akhunova, A., ... & Akhunov, E. (2024).\\
+[[arXiv](https://www.biorxiv.org/content/10.1101/2024.03.20.585976v1.abstract)]
+
 **Addressing persistent challenges in digital image analysis of cancerous tissues**\\
 Prabhakaran, S., Yapp, C., Baker, G. J., Beyer, J., Chang, Y. H., Creason, A. L., ... & Participants of the Cell Imaging Hackathon 2022. (2023).\\
 [[arXiv](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)]

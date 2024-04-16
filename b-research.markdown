@@ -29,4 +29,4 @@ Prabhakaran, S., Yapp, C., Baker, G. J., Beyer, J., Chang, Y. H., Creason, A. L.
 
 **A simplified empirical line calibration method for sUAS-based remote sensing**\\
 Wang, C., Myint, S., Price, K. P., **Wang, H.**, & An, N. (2015). In Imaging and Geospatial Technology Forum, IGTF 2015-ASPRS Annual Conference and co-located JACIE Workshop (pp. 219-229). American Society for Photogrammetry and Remote Sensing. \\
-[[asprs](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.asprs.org/wp-content/uploads/2015/05/3E%5B5%5D-paper.pdf)]
+[[asprs](https://www.asprs.org/wp-content/uploads/2015/05/3E%5B5%5D-paper.pdf)]

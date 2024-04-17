@@ -11,6 +11,11 @@ layout: home
 
 I am a computational biologist/agronomist passionate about using data science and imaging data to translate biological and agronomic sciences into digital solutions that better understand, diagnose, and treat various tissue-based diseases or increase the sustainability and profitability of agricultural systems. I obtained my Ph.D. degree in Agronomy from Kansas State University where I used optical sensors to assess and monitor crop and soil conditions.
 
+## <span style="color:#CB4335">Research Interests</span>
+
+Highly multiplexed imaging | Spatial Omics | Tumor biology | Remote sensing application in Precision Agriculture | Crop physiology
+
+
 ## <span style="color:#CB4335">Work History</span>
 
 **Computational Biologist** (2021 May - Current)\\

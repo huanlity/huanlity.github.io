@@ -13,7 +13,11 @@ I am a computational biologist/agronomist passionate about using data science an
 
 ## <span style="color:#CB4335">Research Interests</span>
 
-Highly multiplexed imaging | Spatial Omics | Tumor biology | Remote sensing application in Precision Agriculture | Crop physiology
+- Highly multiplexed imaging
+- Spatial Omics
+- Tumor biology
+- Remote sensing application in Precision Agriculture
+- Crop physiology
 
 
 ## <span style="color:#CB4335">Work History</span>

@@ -6,6 +6,7 @@ permalink: /presentations/
 
 ### <span style="color:#CB4335">Selected presentations</span>
 
+- Wang, H. et al. 2025. **Celldega: Toolkit for Analysis and Visualization of Spatial and Single-Cell Data**. CZI Workshop at [SCVER Conference](https://scverse.org/conference2025/). Standford, CA. (Nov. 17th – 19th). (invited speaker)
 - Wang, H. et al. 2024. **Systematic Benchmarking of Imaging Spatial Transcriptomics Platforms in FFPE Samples**. [AGBT Conference](https://www.agbt.org/events/general-meeting/agenda/). Orlando, FL. (Nov. 5th – 9th). (invited speaker)
 - Wang, H. et al. 2023. **Cross-tissue Comparison of Protein Based Spatial Biology Methods**. AGBT Conference. Hollywood, FL. (Nov. 4th – 8th). ([poster presentation](https://docs.google.com/presentation/d/1SsD6DezD7aeCQ17bcThbsFEfNSL8cqRd6e9jP0dVmkU/edit#slide=id.g200de9b8d93_0_2))
 - Wang, H. et al. 2022. **Solve spatial cross-talk by evaluating the REDSEA method**. Cell Imaging Hackathon 2022. Cambridge, MA. (Feb. 15th – 18th). (Speaker, [slides](https://docs.google.com/presentation/d/1Dbwti7Q_Z4DwvD_F-2WFgsqGeEGV7tZFxILE5XgvDwk/edit#slide=id.p))

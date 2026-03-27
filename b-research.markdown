@@ -7,16 +7,16 @@ permalink: /research/
 ### <span style="color:#CB4335">Papers</span>
 **Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues**\\
 **Wang, H.**, Huang, R., Nelson, J., Gao, C., Tran, M., Yeaton, A., ... & Farhi, S. L. (2023).\\
-[[arXiv](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v2)]
-[[code (coming soon)]()]
+[[Nature Communications](https://www.nature.com/articles/s41467-025-64990-y)]
+[[code](https://github.com/broadinstitute/ist_benchmarking)]
 
-**Ecogeographic signals of local adaptation in a wild relative help to identify variants associated with improved wheat performance under drought stress**\\
+**Genomic signals of ecogeographic adaptation in a wild relative are associated with improved wheat performance under drought stress**\\
 Nyine, M., Davidson, D., Adhikari, E., Clinesmith, M., **Wang, H.**, Akhunova, A., ... & Akhunov, E. (2024).\\
-[[arXiv](https://www.biorxiv.org/content/10.1101/2024.03.20.585976v1.abstract)]
+[[Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03500-1)]
 
-**Addressing persistent challenges in digital image analysis of cancerous tissues**\\
+**Addressing persistent challenges in digital image analysis of cancer tissue: resources developed from a hackathon**\\
 Prabhakaran, S., Yapp, C., Baker, G. J., Beyer, J., Chang, Y. H., Creason, A. L., ... & Participants of the Cell Imaging Hackathon 2022. (2023).\\
-[[arXiv](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)]
+[[Molecular Oncology](https://febs.onlinelibrary.wiley.com/doi/10.1002/1878-0261.13783)]
 [[code](https://github.com/IAWG-CSBC-PSON/hack2022-05-cross-talk/tree/main)]
 
 **Crop assessment and monitoring using optical sensors**\\

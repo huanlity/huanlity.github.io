@@ -5,16 +5,17 @@
 layout: home
 ---
 
-<img src="./asset/profile.jpeg" width="400">
+<img src="./asset/Huan_Profile_2025.jpeg" width="400">
 
 ## <span style="color:#CB4335">About Me</span>
 
-I am a computational biologist/agronomist passionate about using data science and imaging data to translate biological and agronomic sciences into digital solutions that better understand, diagnose, and treat various tissue-based diseases or increase the sustainability and profitability of agricultural systems. I obtained my Ph.D. degree in Agronomy from Kansas State University where I used optical sensors to assess and monitor crop and soil conditions.
+I am a computational biologist/agronomist passionate about using data science and imaging data to translate biological and agronomic sciences into digital solutions that better understand, diagnose, and treat various tissue-based diseases or increase the sustainability and profitability of agricultural systems. I obtained my Ph.D. degree in Agronomy from Kansas State University where I used optical sensors to assess and monitor crop and soil conditions. I am currently a computational scientist at the Broad Institute, where I develop tools and pipelines for the processing, benchmarking, visualization, and analysis of spatial omics data.
 
 ## <span style="color:#CB4335">Research Interests</span>
 
 - Highly multiplexed imaging
 - Spatial Omics
+- Interactive visualization and analysis
 - Tumor biology
 - Remote sensing application in Precision Agriculture
 - Crop physiology
@@ -24,6 +25,7 @@ I am a computational biologist/agronomist passionate about using data science an
 
 **Computational Biologist** (2021 May - Current)\\
 [Spatial Technology Platform](https://www.broadinstitute.org/spatial-technology-platform), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), Cambridge, MA.
+- Developing [Celldega] (https://github.com/broadinstitute/celldega), an integrated toolkit for analysis and visualization of spatial and single-cell data.
 - Designed various pipelines to process and analyze highly multiplexed imagery data on the Google Cloud Platform.
 - Led the effort on processing and analyzing CODEX/CyCIF/mIF/MERFISH/Xenium/CosMX data on multiple projects.
 - Compared protein-based spatial biology methods across tissues.

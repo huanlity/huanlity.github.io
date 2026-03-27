@@ -9,7 +9,7 @@ layout: home
 
 ## <span style="color:#CB4335">About Me</span>
 
-I am a computational biologist/agronomist passionate about using data science and imaging data to translate biological and agronomic sciences into digital solutions that better understand, diagnose, and treat various tissue-based diseases or increase the sustainability and profitability of agricultural systems. I obtained my Ph.D. degree in Agronomy from Kansas State University where I used optical sensors to assess and monitor crop and soil conditions. I am currently a computational scientist at the Broad Institute, where I develop tools and pipelines for the processing, benchmarking, visualization, and analysis of spatial omics data.
+I am a computational scientist at the Broad Institute, developing tools and pipelines for spatial omics data processing, benchmarking, analysis and interactive visualizations. With a Ph.D. in Agronomy from Kansas State University, my career has been defined by a passion for translating complex imaging and sensor data into actionable digital solutions. Whether using optical sensors to assess crop/soil conditions or spatial transcriptomics to diagnose diseases, my goal remains the same: leveraging data science to increase the sustainability of agricultural systems and improve human health outcomes.
 
 ## <span style="color:#CB4335">Research Interests</span>
 

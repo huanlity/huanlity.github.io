@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="./asset/Huan_Profile_2025.jpeg" width="400">
+<img src="./asset/IMG_6160.JPG" width="400">
 
 ## <span style="color:#CB4335">About Me</span>
 

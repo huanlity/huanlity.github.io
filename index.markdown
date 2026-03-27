@@ -25,7 +25,8 @@ I am a computational biologist/agronomist passionate about using data science an
 
 **Computational Biologist** (2021 May - Current)\\
 [Spatial Technology Platform](https://www.broadinstitute.org/spatial-technology-platform), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), Cambridge, MA.
-- Developing [Celldega] (https://github.com/broadinstitute/celldega), an integrated toolkit for analysis and visualization of spatial and single-cell data.
+- Developing [Celldega](https://github.com/broadinstitute/celldega), an integrated toolkit for analysis and visualization of spatial and single-cell data.
+- Benchmarked imaging spatial transcriptomics platforms (Xenium, MERSCOPE, CosMx) in FFPE tissues.
 - Designed various pipelines to process and analyze highly multiplexed imagery data on the Google Cloud Platform.
 - Led the effort on processing and analyzing CODEX/CyCIF/mIF/MERFISH/Xenium/CosMX data on multiple projects.
 - Compared protein-based spatial biology methods across tissues.

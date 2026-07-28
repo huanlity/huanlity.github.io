@@ -26,7 +26,7 @@ I am a computational scientist at the Broad Institute, developing tools and pipe
 **Computational Biologist** (2021 May - Current)\\
 [Spatial Technology Platform](https://www.broadinstitute.org/spatial-technology-platform), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), Cambridge, MA.
 - Developing [Celldega](https://github.com/broadinstitute/celldega), an integrated toolkit for analysis and visualization of spatial and single-cell data.
-- Conducted the systematic benchmarking of imaging spatial transcriptomics platforms in FFPE human samples across healthy and cancerous tissues.
+- Conducted the [systematic benchmarking of imaging spatial transcriptomics platforms in FFPE human samples across healthy and cancerous tissues](https://www.nature.com/articles/s41467-025-64990-y).
 - Designed various pipelines to process and analyze highly multiplexed imagery data on the Google Cloud Platform.
 - Led the effort on processing and analyzing CODEX/CyCIF/mIF/MERFISH/Xenium/CosMX data on multiple projects.
 - Compared protein-based spatial biology methods across tissues.

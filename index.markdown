@@ -27,9 +27,14 @@ I am a computational scientist at the Broad Institute, developing tools and pipe
 [Spatial Technology Platform](https://www.broadinstitute.org/spatial-technology-platform), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), Cambridge, MA.
 - Developing [Celldega](https://github.com/broadinstitute/celldega), an integrated toolkit for analysis and visualization of spatial and single-cell data.
 - Conducted the [systematic benchmarking of imaging spatial transcriptomics platforms in FFPE human samples across healthy and cancerous tissues](https://www.nature.com/articles/s41467-025-64990-y).
-- Designed various pipelines to process and analyze highly multiplexed imagery data on the Google Cloud Platform.
-- Led the effort on processing and analyzing CODEX/CyCIF/mIF/MERFISH/Xenium/CosMX data on multiple projects.
-- Compared protein-based spatial biology methods across tissues.
+- Co-developed and deployed a segmentation pipeline for spatial transcriptomics data using cellpose and WDL.
+- Performed end-to-end computational consulting for a private company, including data processing, cell type annotation, enrichment analysis, spatial enrichment of certain cell types based on distance, and report generation and presentation.
+- Integrated single-cell spatial transcriptomics and proteomics to resolve T cell functional states in human renal cell carcinoma.[https://drive.google.com/file/d/16W7s5IgTRjnwC0oxHZfU4ttTEO_IRgzy/view?usp=sharing]
+- Compared imaging-based spatial proteomics platforms (CODEX, CycIF, mIF) across tissues.[https://docs.google.com/presentation/d/1SsD6DezD7aeCQ17bcThbsFEfNSL8cqRd6e9jP0dVmkU/edit?usp=sharing]
+- Peer reviewed manuscirpts in SAM-based imaging segmentation and spatial omics platform benchmarking.
+- Designed pipelines to process and analyze highly multiplexed imaging data on Google Cloud Platform.
+- Led the effort to process and analyze CODEX/CyCIF/mIF/MERFISH/Xenium/CosMX data across multiple projects.
+
 
 **Data Scientist** (2018 March - 2021 Jan)\\
 Geoinnovation, [Indigo Agriculture](https://www.indigoag.com), Charlestown, MA.

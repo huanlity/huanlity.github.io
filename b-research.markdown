@@ -6,7 +6,7 @@ permalink: /research/
 
 ### <span style="color:#CB4335">Papers</span>
 **Celldega: Integrated Toolkit for Visualization and Analysis of Spatial Data**\\
-Nicolas Fernandez, Jaspreet Ishar, **Huan Wang**, Amin Ben Saad, Michal Lipinski, Samouil L Farhi (2023).\\
+Nicolas Fernandez, Jaspreet Ishar, **Huan Wang**, Amin Ben Saad, Michal Lipinski, Samouil L Farhi (2026).\\
 [[biorxivs](https://www.biorxiv.org/content/10.64898/2026.08.13.744672v1)]
 [[code](https://github.com/broadinstitute/celldega)]
 [[documentation](https://broadinstitute.github.io/celldega/)]

@@ -1,0 +1,8 @@
+<div class="photo-row">
+{%- assign photos = site.static_files | where_exp: "f", "f.path contains include.folder" | sort: "name" -%}
+{%- for photo in photos -%}
+  <a href="{{ include.href }}">
+    <img src="{{ photo.path | relative_url }}" loading="lazy" alt="">
+  </a>
+{%- endfor -%}
+</div>

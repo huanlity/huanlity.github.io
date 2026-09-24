@@ -27,10 +27,10 @@ permalink: /others/
 </style>
 
 <h2><a href="/others/ride/">ride</a></h2>
-{% include photo-row.html folder="/asset/ride/" href="/others/ride/" %}
+{% include photo-row.html category="ride" href="/others/ride/" %}
 
 <h2><a href="/others/eat/">eat</a></h2>
-{% include photo-row.html folder="/asset/eat/" href="/others/eat/" %}
+{% include photo-row.html category="eat" href="/others/eat/" %}
 
 <h2><a href="/others/kick/">kick</a></h2>
-{% include photo-row.html folder="/asset/kick/" href="/others/kick/" %}
+{% include photo-row.html category="kick" href="/others/kick/" %}

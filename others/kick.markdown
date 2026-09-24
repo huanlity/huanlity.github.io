@@ -5,4 +5,4 @@ permalink: /others/kick/
 
 <h2>kick</h2>
 
-{% include photo-grid.html folder="/asset/kick/" %}
+{% include photo-grid.html category="kick" %}

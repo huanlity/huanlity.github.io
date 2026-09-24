@@ -22,7 +22,7 @@
 </style>
 
 <div class="photo-grid">
-{%- assign folder = "/asset/" | append: include.category | append: "/" -%}
+{%- assign folder = "/asset/" | append: include.category | append: "_thumb/" -%}
 {%- assign photos = site.static_files | where_exp: "f", "f.path contains folder" | sort: "name" -%}
 {%- for photo in photos -%}
   <a href="/asset/{{ include.category }}_full/{{ photo.basename }}.jpg" target="_blank">

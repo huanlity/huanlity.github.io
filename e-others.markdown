@@ -24,13 +24,21 @@ permalink: /others/
   border-radius: 4px;
   object-fit: cover;
 }
+.section-heading {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+.section-heading a {
+  color: #000;
+  text-decoration: none;
+}
 </style>
 
-<h2><a href="/others/ride/">ride</a></h2>
+<h2 class="section-heading"><a href="/others/ride/">ride</a></h2>
 {% include photo-row.html category="ride" href="/others/ride/" %}
 
-<h2><a href="/others/eat/">eat</a></h2>
+<h2 class="section-heading"><a href="/others/eat/">eat</a></h2>
 {% include photo-row.html category="eat" href="/others/eat/" %}
 
-<h2><a href="/others/kick/">kick</a></h2>
+<h2 class="section-heading"><a href="/others/kick/">kick</a></h2>
 {% include photo-row.html category="kick" href="/others/kick/" %}

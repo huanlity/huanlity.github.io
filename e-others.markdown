@@ -25,7 +25,7 @@ permalink: /others/
   object-fit: cover;
 }
 .section-heading {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   margin-bottom: 8px;
 }
 .section-heading a {

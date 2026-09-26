@@ -24,13 +24,16 @@ permalink: /others/
   border-radius: 4px;
   object-fit: cover;
 }
-.section-heading {
-  font-size: 0.9rem;
+.post-content h2.section-heading {
+  font-size: 26px;
   margin-bottom: 8px;
 }
 .section-heading a {
   color: #CB4335;
   text-decoration: none;
+}
+@media screen and (max-width: 800px) {
+  .post-content h2.section-heading { font-size: 22px; }
 }
 </style>
 

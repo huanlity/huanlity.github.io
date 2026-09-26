@@ -29,7 +29,7 @@ permalink: /others/
   margin-bottom: 8px;
 }
 .section-heading a {
-  color: #000;
+  color: #CB4335;
   text-decoration: none;
 }
 </style>
